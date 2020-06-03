@@ -1,5 +1,8 @@
 package produktionscode;
 
-public class Firmenkunde {
+public class Firmenkunde extends Parkhauskunde{
 
+	public Firmenkunde() {
+		super();
+	}
 }
